@@ -105,8 +105,8 @@ Thanks to **CodeAlpha** for providing this valuable learning opportunity and gui
 
 ## 🔗 Author
 
-**Amar Kumar**\
-GitHub: [Modelamar](https://github.com/Modelamar)
+**Manikanta Pallepati**\
+GitHub: [pallepa](https://github.com/pallepa)
 
 > *This project is part of the CodeAlpha Machine Learning Internship.*
 
